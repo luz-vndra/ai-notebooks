@@ -33,6 +33,16 @@ uv add playwright
 uv run playwright install chromium
 ```
 
+## Using `llama3.2` locally
+
+- visit, [download and install Ollama for your OS here](https://ollama.com/download)
+- then, in your CLI, pull llama3.2 using:
+```bash
+ollama pull llama3.2
+```
+- word of caution: other versions of llama are not fit to run locally on a laptop
+
+
 # Contents
 
 - Website Summarizer - `llm-engineering/week_1_day1_playwright_webscraper_implementation.ipynb` 

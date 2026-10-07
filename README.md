@@ -47,3 +47,7 @@ ollama pull llama3.2
 
 - Website Summarizer - `llm-engineering/week1_day1_playwright_webscraper_implementation.ipynb` 
     - works with both HTML websites (beautifulsoup scraper) and JS-heavy websites (playwright scraper)
+
+- Token Generator - `llm-engineering/week1_day4.ipynb`
+
+- Memory - `llm-engineering/week1_day4.ipynb`

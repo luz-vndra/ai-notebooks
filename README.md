@@ -51,3 +51,9 @@ ollama pull llama3.2
 - Token Generator - `llm-engineering/week1_day4.ipynb`
 
 - Memory - `llm-engineering/week1_day4.ipynb`
+
+- Brochure Generator & Streamer - `llm-engineering/week1_day5.ipynb`
+
+- OpenAI Config - `llm-engineering/week1_openai.ipynb`
+
+- Technical Chat Question - `llm-engineering/week1_exercise.ipynb`

@@ -56,4 +56,6 @@ ollama pull llama3.2
 
 - OpenAI Config - `llm-engineering/week1_openai.ipynb`
 
-- Technical Chat Question - `llm-engineering/week1_exercise.ipynb`
+- Technical Chat - `llm-engineering/week1_exercise.ipynb`
+
+- 3-way Agentic Conversation - `llm-engineering/week1_day5.ipynb`

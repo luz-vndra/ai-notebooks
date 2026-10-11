@@ -58,4 +58,6 @@ ollama pull llama3.2
 
 - Technical Chat - `llm-engineering/week1_exercise.ipynb`
 
-- 3-way Agentic Conversation - `llm-engineering/week1_day5.ipynb`
+- 3-way Agentic Conversation (Sequential) - `llm-engineering/week1_day5.ipynb`
+
+- 3-way Agentic Conversation (Random Order) - `llm-engineering/week2_day1_single_user_prompt_alternative.ipynb`

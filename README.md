@@ -39,6 +39,10 @@ uv run playwright install chromium
 - then, in your CLI, pull llama3.2 using:
 ```bash
 ollama pull llama3.2
+
+# other examples
+ollama pull mistral
+ollama pull gemma2:2b
 ```
 - word of caution: other versions of llama are not fit to run locally on a laptop
 

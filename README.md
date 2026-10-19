@@ -49,19 +49,27 @@ ollama pull gemma2:2b
 
 # Contents
 
-- Website Summarizer - `llm-engineering/week1_day1_playwright_webscraper_implementation.ipynb` 
+- [Website Summarizer](llm-engineering/week1_day1_playwright_webscraper_implementation.ipynb) - `llm-engineering/week1_day1_playwright_webscraper_implementation.ipynb` 
     - works with both HTML websites (beautifulsoup scraper) and JS-heavy websites (playwright scraper)
 
-- Token Generator - `llm-engineering/week1_day4.ipynb`
+- [Prompt Token Generator](llm-engineering/week1_day4.ipynb) - `llm-engineering/week1_day4.ipynb`
 
-- Memory - `llm-engineering/week1_day4.ipynb`
+- [Chat Memory](llm-engineering/week1_day4.ipynb) - `llm-engineering/week1_day4.ipynb`
 
-- Brochure Generator & Streamer - `llm-engineering/week1_day5.ipynb`
+- [Brochure Generator & Streamer](llm-engineering/week1_day5.ipynb) - `llm-engineering/week1_day5.ipynb`
 
-- OpenAI Config - `llm-engineering/week1_openai.ipynb`
+- [OpenAI Config](llm-engineering/week1_openai.ipynb) - `llm-engineering/week1_openai.ipynb`
 
-- Technical Chat - `llm-engineering/week1_exercise.ipynb`
+- [Technical Chat](llm-engineering/week1_exercise.ipynb) - `llm-engineering/week1_exercise.ipynb`
 
-- 3-way Agentic Conversation (Sequential) - `llm-engineering/week1_day5.ipynb`
+- [3-way Agentic Conversation (Sequential)](llm-engineering/week1_day5.ipynb) - `llm-engineering/week1_day5.ipynb`
 
-- 3-way Agentic Conversation (Random Order) - `llm-engineering/week2_day1_single_user_prompt_alternative.ipynb`
+- [3-way Agentic Conversation (Random Order)](llm-engineering/week2_day1_single_user_prompt_alternative.ipynb) - `llm-engineering/week2_day1_single_user_prompt_alternative.ipynb`
+
+- [Ollama open source multiple models workbook](llm-engineering/week2_open_source_multi_model.ipynb) - `llm-engineering/week2_open_source_multi_model.ipynb`
+
+- [gradio basics](./llm-engineering/week2_day2_gradio_multi_model.ipynb) - `llm-engineering/week2_day2_gradio_multi_model.ipynb`
+    - includes simple UI, one-step chat, multi-model selection single step chat, and generating company brochure with the scraper and the one-step chat
+
+
+- [gradio chat bot for customer support](llm-engineering/week2_day3_gradio_chatbot.ipynb) - `llm-engineering/week2_day3_gradio_chatbot.ipynb`
